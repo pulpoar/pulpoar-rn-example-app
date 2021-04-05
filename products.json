@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Flormar DELUXE CASHMERE LIPSTICK STYLO DC28 ABSOLUTE NUDE",
+        "id": "1552",
+        "category": "Lipstick",
+        "color": "#e27878",
+        "code": "33000011-DC28",
+        "price": "$12.40",
+        "image": "https://mcdn.flormar.com.tr/mnresize/430/537/UPLOAD/PRODUCTS/33000011-DC28_1_deluxe-cashmere-lipstick-stylo.jpg"
+    },
+    {
+        "name": "Flormar DELUXE CASHMERE LIPSTICK STYLO DC37 THROWBACK ROSE",
+        "id": "1557",
+        "category": "Lipstick",
+        "color": "#cc525a",
+        "code": "33000011-DC37",
+        "price": "$12.40",
+        "image": "https://mcdn.flormar.com.tr/mnresize/430/537/UPLOAD/PRODUCTS/33000011-DC37_1_deluxe-cashmere-lipstick-stylo.jpg"
+
+    },
+    {
+        "name": "Flormar DIPLINER Black",
+        "category": "Eyeliner",
+        "id": "58",
+        "color": "#000000",
+        "code": "32000001-000",
+        "price": "$12.40",
+        "image": "https://mcdn.flormar.com.tr/mnresize/430/537/UPLOAD/PRODUCTS/32000001-000_1_dipliner.jpg"
+    },
+    {
+        "name": "Flormar BAKED BLUSH-ON 044 PINK BRONZE",
+        "category": "Blusher",
+        "id": "201",
+        "color": "#d17b6f",
+        "code": "31000007-044",
+        "price": "$12.40",
+        "image": "https://mcdn.flormar.com.tr/mnresize/430/537/UPLOAD/PRODUCTS/31000007-044_1_baked-blush-on.jpg"
+    }
+]
