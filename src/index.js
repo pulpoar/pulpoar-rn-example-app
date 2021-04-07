@@ -14,7 +14,7 @@ import products from '../products.json';
 // javascript code after webview loaded
 const initializeCommand = `
 initProducts('af648582-1346-45e0-bea2-f872c7a84c6d', 'http://127.0.0.1:8000');
-activeProduct = {"Lipstick": "Flormar DELUXE CASHMERE LIPSTICK STYLO DC28 ABSOLUTE NUDE","makeupType":["Lipstick"],"makeupMode":1}
+activeProduct = {"Lipstick": "Flormar DELUXE CASHMERE LIPSTICK STYLO DC28 ABSOLUTE NUDE","makeupType":["Lipstick"],"makeupMode":0} 
 set_active_products(JSON.stringify(activeProduct))
 changeChoosModelColorAndLabel('Change Model','#993F47');
 `;

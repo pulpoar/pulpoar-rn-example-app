@@ -49,7 +49,15 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-  Flormar DELUXE CASHMERE LIPSTICK STYLO 
+	<key>NSCameraUsageDescription</key>
+	<string>${PRODUCT_NAME} wants to use your camera for make up!</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>${PRODUCT_NAME} wants to access your photos for make up!</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>${PRODUCT_NAME} wants to access your photos for make up!</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>${PRODUCT_NAME} wants to use your mic for make up!</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>
 </plist>
