@@ -9,17 +9,17 @@ class PulpoAR extends Component {
         {...this.props}
         useWebKit
         bounces={true}
-        source={{uri: this.props.uri}} //takes url
+        onMessage={() => {}}
+        source={{uri: 'https://devphotomakeup.pulpoar.com/'}}
         allowsInlineMediaPlayback
-        javaScriptEnabledAndroid={true}
-        mediaPlaybackRequiresUserAction={false}
+        allowsInlineMediaPlaybackjavaScriptEnabledoriginWhitelist={['*']}
         originWhitelist={['*']}
-        onMessage={m => this.props.onMessage(m)}
         ref={this.props.pulpoRef}
       />
     );
   }
 }
+
 export default PulpoAR;
 
 const styles = StyleSheet.create({
