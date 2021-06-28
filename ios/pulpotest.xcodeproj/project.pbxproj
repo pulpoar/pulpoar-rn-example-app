@@ -114,7 +114,6 @@
 				1444BFADD12FA9EA159DD244 /* Pods-pulpotest-pulpotestTests.debug.xcconfig */,
 				DF1B9484839DB424F7CE25A1 /* Pods-pulpotest-pulpotestTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -485,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A5FNZKN7A2;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = pulpotest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A5FNZKN7A2;
 				INFOPLIST_FILE = pulpotest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

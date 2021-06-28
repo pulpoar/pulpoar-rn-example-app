@@ -7,9 +7,12 @@ class PulpoAR extends Component {
     return (
       <WebView
         {...this.props}
+        useWebKit
+        bounces={true}
         source={{uri: this.props.uri}} //takes url
         allowsInlineMediaPlayback
         javaScriptEnabledAndroid={true}
+        mediaPlaybackRequiresUserAction={false}
         originWhitelist={['*']}
         onMessage={m => this.props.onMessage(m)}
         ref={this.props.pulpoRef}
